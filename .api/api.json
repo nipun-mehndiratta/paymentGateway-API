@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "copperx",
+      "source": "@copperx/v0.0.1#d405nzlrt7easu",
+      "integrity": "sha512-TZr97Buwb8iuAsfqKz5YC5BGlR1T+RtyhEnLmUul3DbG0NrHx1ydUgDc3GoNVTBzGU+PGA/+tEpLh2FN5G3TWg==",
+      "installerVersion": "6.1.1"
+    }
+  ]
+}
